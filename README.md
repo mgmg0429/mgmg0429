@@ -36,8 +36,7 @@
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
 
 <br>
-<!-- GitHub 통계 -->
-<h2 align="center">GitHub Statistics</h2>
+
 <p align="center">
 <a href="https://github.com/mgmg0429">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mgmg0429&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
