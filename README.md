@@ -29,20 +29,9 @@
     </a>
 </div>
 
-<br/>
-<br/>
-<br>
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbwhdgjs&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbwhdgjs&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
 
   
 <br>
-</div>
 
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
 
