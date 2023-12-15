@@ -40,8 +40,8 @@
 <h2 align="center">GitHub Statistics</h2>
 <p align="center">
 <a href="https://github.com/mgmg0429">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=martinkim1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martinkim1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mgmg0429&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mgmg0429&layout=compact&langs_count=8&theme=algolia"/>
   <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgmg0429&theme=alogolia" />-->
 </a>
 </p>
