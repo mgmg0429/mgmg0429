@@ -6,12 +6,6 @@
 
 - [Instagram](https://www.instagram.com/m_jjmj/)
 
-<br>
-<div align="center">
-<a href="https://github.com/SophieNguyen113">
-<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
-</a>
-
 </div>
 
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
