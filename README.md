@@ -18,7 +18,28 @@
   <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
 
   
-  
+  # 𝘾𝙤𝙣𝙩𝙚𝙘𝙩
+
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:joo040429@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/dbwhdgjs">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div>
+
+<br/>
+<br/>
+<br>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dbwhdgjs&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbwhdgjs&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+
   
 <br>
 </div>
