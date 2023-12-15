@@ -8,10 +8,8 @@
 
 - ## Languages
     ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
-    ![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=fff&style=flat)
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
-    ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
 - ## Frameworks
