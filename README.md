@@ -5,7 +5,6 @@
 💻학과: 인공지능소프트웨어학과 <br>
 
 - ## Languages
-    ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat)
