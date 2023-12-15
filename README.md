@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello World, I'm Minju 👋
+<br>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<br>
 🧏이름: 조민주 <br>
 🏫학교: 동양미래대학교 <br>
 💻학과: 인공지능소프트웨어학과 <br>
