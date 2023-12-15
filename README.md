@@ -30,7 +30,8 @@
 </div>
 <br>
 
-##3⚡ Github Stats
+<details>
+  <summary>:zap: Github Stats</summary>
 
 <p align="center">
 <a href="https://github.com/mgmg0429">
