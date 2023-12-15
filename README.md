@@ -28,13 +28,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
-
-
-  
-<br>
-
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
 <br>
 
 <p align="center">
@@ -43,4 +36,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mgmg0429&layout=compact&langs_count=8&theme=algolia"/>
   <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgmg0429&theme=alogolia" />-->
 </a>
+  <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
 </p>
