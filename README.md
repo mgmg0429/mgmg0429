@@ -14,7 +14,7 @@
     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
   <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
   <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
- ight="40" /> </a>
+
   
   
   
