@@ -30,7 +30,6 @@
 </div>
 <br>
 
-<details>
   <summary>:zap: Github Stats</summary>
 
 <p align="center">
